@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ServerManager getUser:onSuccess:onFailure:]:ServerManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "user">
+            </PersistentString>
+            <PersistentString
+               value = "self.currentUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController getFriendsFromserver]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.friendsArray count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LoginViewController webView:shouldStartLoadWithRequest:navigationType:]:LoginViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "selftoken">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__45-[ServerManager getUser:onSuccess:onFailure:]_block_invoke:ServerManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "userView.imageView.image">
+            </PersistentString>
+            <PersistentString
+               value = "userView.displayLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ServerManager getStatus:onSuccess:onFailure:]:ServerManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentUser.status ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__31-[ServerManager authorizeUser:]_block_invoke:ServerManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CurrentUserView initWithUser:]:CurrentUserView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.displayLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__63-[ServerManager getFriendsWithOffset:count:onSuccess:onFalier:]_block_invoke:ServerManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController tableView:cellForRowAtIndexPath:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[ServerManager sharedManager].accessToken.userID">
+            </PersistentString>
+            <PersistentString
+               value = "[ServerManager sharedManager].currentUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
