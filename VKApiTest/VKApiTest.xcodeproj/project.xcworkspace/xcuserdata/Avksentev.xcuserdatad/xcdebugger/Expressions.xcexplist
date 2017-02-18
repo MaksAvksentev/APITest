@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[APIManager getUser:onSuccess:onFailure:]:APIManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FriendsViewController tableView:cellForRowAtIndexPath:]:FriendsViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TableViewCurrentUserCell initInfo]:TableViewCurrentUserCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "__42-[APIManager getUser:onSuccess:onFailure:]_block_invoke:APIManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[APIManager authorizeUser:]:APIManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__40-[TableViewFriendCell initInfoWithUser:]_block_invoke:TableViewFriendCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.imageView.frame.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
